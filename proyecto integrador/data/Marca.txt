@@ -1,0 +1,8 @@
+M1	�Phone SE
+M2	�Phone 13 Pro Max
+M3	�Phone 13 Pro
+M4	�Phone 13
+M5	�Phone 13 Mini
+M6	�Phone 12 Pro Max
+M7	�Phone 12 Pro
+M8	�Phone 12

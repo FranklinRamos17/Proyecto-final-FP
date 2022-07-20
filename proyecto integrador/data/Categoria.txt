@@ -1,0 +1,8 @@
+C1	�Phone SE
+C2	�Phone 13 Pro Max
+C3	�Phone 13 Pro
+C4	�Phone 13
+C5	�Phone 13 mini
+C6	�Phone Pro max
+C7	�Phone  Pro
+C8	�Phone 12
